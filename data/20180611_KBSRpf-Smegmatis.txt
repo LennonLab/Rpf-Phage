@@ -1,0 +1,15 @@
+Time	OD	Treat
+44	0	blank
+44	0.14	Rpf-
+44	0.188	Rpf-
+44	2.89	Rpf-
+44	2.45	Rpf+
+44	0.449	Rpf+
+44	0.357	Rpf+
+88	0	blank
+88	0.45	Rpf-
+88	0.512	Rpf-
+88	0.466	Rpf-
+88	0.785	Rpf+
+88	0.86	Rpf+
+88	0.831	Rpf+
